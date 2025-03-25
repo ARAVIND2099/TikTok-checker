@@ -10,6 +10,11 @@ Tik Tok checker ( Brute Force ) .
 - can open more than tap .
 - more faster captcha solver without proxy .
 
+- 
+70$  week .
+ 210$ month .
+380$ full source code
+
 # contact telegram : https://t.me/daniruee
 telegram channel : https://t.me/toolsgi
 
